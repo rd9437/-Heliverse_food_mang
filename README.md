@@ -1,4 +1,4 @@
-# Heliverse_food_mang
+# Hospital Food Mangement
 This repository holds the completion of the assignment-Hospital Food Management by Heliverse.
 
 ## This project is built with 
